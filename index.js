@@ -25,4 +25,4 @@ function makeInt(n) {
   parseInt('n', 10)
   return makeInt
 }
-
+function makeInt(0.)
