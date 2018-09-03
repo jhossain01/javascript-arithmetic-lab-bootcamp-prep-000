@@ -26,4 +26,6 @@ function makeInt(n) {
   return makeInt
 }
 
+parseInt('0.238', 10)
+
 
