@@ -26,8 +26,4 @@ function makeInt(n) {
   return makeInt
 }
 
-function makeInt(n) {
-  parseInt('n')
-  return makeInt.toString()
-}
-
+function makeInt()
