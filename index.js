@@ -26,7 +26,3 @@ function makeInt(n) {
   return makeInt
 }
 
-function makeInt(n) {
-  parseInt('0.2328', 10)
-  return makeInt
-}
