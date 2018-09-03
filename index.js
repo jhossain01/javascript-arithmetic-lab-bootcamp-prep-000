@@ -27,6 +27,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  
+  parseInt('n')
+  return makeInt.toString()
 }
 
