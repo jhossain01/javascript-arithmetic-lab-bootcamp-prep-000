@@ -25,6 +25,4 @@ function  makeInt(n) {
   return makeInt.toString()
 }
 
-function makeInt(0 * 2358) {
-  return 
-}
+
